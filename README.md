@@ -20,6 +20,21 @@ Rekomendasi android minimun versi 4.
 
   
 ### Fitur Sementara
+| Fitur                 | Offline        | 
+| --------------------- | -------------- |
+| Tutorial (hacking)    |                |
+| Nonton Film           |                |
+| URL Downloader        |                |
+| WhatsApp Saver        |       ✔        |
+| Instagram Downloader  |                |
+| YouTube Downloader    |                |
+| JSO Generator         |                |
+| CSRF Online           |                |
+| SQL injection         |       ✔        |
+| View Source Code Web  |                |
+| Text Editor           |       ✔        |
+
+
 ☞ Tutorial (hacking) <i>tersedia offline/oneline</i><br>
 ☞ Nonton Film <i>disertai chat</i><br>
 ☞ URL Downloader (download langsung dari menggunakan url (contoh: https://example.com/myfile.pdf<br>
