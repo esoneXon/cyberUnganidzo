@@ -12,13 +12,13 @@ Coming Soon (Jam 20:00 20/06/2021)<br><br>
 ### Device Requirements
 Rekomendasi android minimun versi 4.
 <br>
-<b>Note :<b> Mungkin ada beberapa fitur yang tidak berfungsi untuk android versi 8+
+<b>Note :</b> Mungkin ada beberapa fitur yang tidak berfungsi untuk android versi 8+
 <br><br>
 
   
 ### Fitur Sementara
-☞ Tutorial (hacking) <i>tersedia offline/oneline<i><br>
-☞ Nonton Film <i>disertai chat<i><br>
+☞ Tutorial (hacking) <i>tersedia offline/oneline</i><br>
+☞ Nonton Film <i>disertai chat</i><br>
 ☞ URL Downloader (download langsung dari menggunakan url (contoh: https://example.com/myfile.pdf<br>
 ☞ WhatsApp Saver (Download status whatsapp dan share sticker menjadi JPG)<br>
 ☞ Instagram Downloader<br>
