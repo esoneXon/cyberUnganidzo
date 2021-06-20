@@ -9,7 +9,7 @@ Didalam aplikasi saya juga sudah menaruh tombol <b>Laporkan Masalah</b> dan <b>B
 
 | Version | Link Download  | 
 | ------- | -------------- |
-| 1.0     |                |
+| 1.0     | Wait               |
 
 
 ### Device Requirements
