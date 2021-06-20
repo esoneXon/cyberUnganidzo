@@ -2,18 +2,18 @@
 
 ### Rilis v1.0 build 1
 Karena solo player rilis versi ini hanya percobaan untuk menentukan kekurangan ataupun kesalahan yang ada didalam aplikasi. Ngerjain sendiri + test sendiri itu lama, jadi kalian lah pengguna yang mengetest aplikasi ini agar saya sebagai developer tau dimana kekurangan dan kesalahan di dalam aplikasi.<br><br>
-Didalam aplikasi saya juga sudah menaruh tombol <b>Laporkan Masalah</b> dan <b>Beri Saran</b> yang ada di <b>INFO</b>
+Didalam aplikasi saya juga sudah menaruh tombol <b>Laporkan Masalah</b> dan <b>Beri Saran</b> yang ada di <b>INFO</b><br><br>
 
 
 ### Download
-Coming Soon
+Coming Soon<br><br>
 
 
 ### Device Requirements
 Rekomendasi android minimun versi 4.
 <br>
 <b>Note :<b> Mungkin ada beberapa fitur yang tidak berfungsi untuk android versi 8+
-<br>
+<br><br>
 
   
 ### Fitur Sementara
@@ -27,7 +27,7 @@ Rekomendasi android minimun versi 4.
 ☞ CSRF Online<br>
 ☞ SQL injection (belum bekerja dengan baik)<br>
 ☞ View Source Code Web (Melihat source code dari website)<br>
-☞ Text Editor (belum bekerja dengan baik)<br>
+☞ Text Editor (belum bekerja dengan baik)<br><br>
 
   
 ### Terimakasih atas support dari teman teman.
