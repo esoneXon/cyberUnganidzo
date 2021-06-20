@@ -6,7 +6,10 @@ Didalam aplikasi saya juga sudah menaruh tombol <b>Laporkan Masalah</b> dan <b>B
 
 
 ### Download
-Coming Soon (Jam 20:00 20/06/2021)<br><br>
+
+| Version | Link Download  | 
+| ------- | -------------- |
+| 1.0     |                |
 
 
 ### Device Requirements
