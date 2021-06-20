@@ -2,10 +2,12 @@
 
 ### Rilis v1.0 build 1
 Karena solo player rilis versi ini hanya percobaan untuk menentukan kekurangan ataupun kesalahan yang ada didalam aplikasi. Ngerjain sendiri + test sendiri itu lama, jadi kalian lah pengguna yang mengetest aplikasi ini agar saya sebagai developer tau dimana kekurangan dan kesalahan di dalam aplikasi.<br><br>
-Didalam aplikasi saya juga sudah menaruh tombol <b>Laporkan Masalah<b> dan <b>Beri Saran<b> yang ada di <b>INFO<b>
+Didalam aplikasi saya juga sudah menaruh tombol <b>Laporkan Masalah</b> dan <b>Beri Saran</b> yang ada di <b>INFO</b>
+
 
 ### Download
 Coming Soon
+
 
 ### Device Requirements
 Rekomendasi android minimun versi 4.
@@ -13,6 +15,7 @@ Rekomendasi android minimun versi 4.
 <b>Note :<b> Mungkin ada beberapa fitur yang tidak berfungsi untuk android versi 8+
 <br>
 
+  
 ### Fitur Sementara
 ☞ Tutorial (hacking) <i>tersedia offline/oneline<i><br>
 ☞ Nonton Film <i>disertai chat<i><br>
@@ -26,4 +29,5 @@ Rekomendasi android minimun versi 4.
 ☞ View Source Code Web (Melihat source code dari website)<br>
 ☞ Text Editor (belum bekerja dengan baik)<br>
 
+  
 ### Terimakasih atas support dari teman teman.
