@@ -7,9 +7,9 @@ Didalam aplikasi saya juga sudah menaruh tombol <b>Laporkan Masalah</b> dan <b>B
 
 ### Download
 
-| Version | Link Download  | 
-| ------- | -------------- |
-| 1.0     | Wait               |
+| Version | Link Download  | Size           |
+| ------- | -------------- | -------------- |
+| 1.0     | Wait           | 6 Mb              |
 
 
 ### Device Requirements
