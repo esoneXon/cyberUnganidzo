@@ -34,4 +34,12 @@ Rekomendasi android minimun versi 4.
 | View Source Code Web  |                |
 | Text Editor           |       ✔        |
 
+### Akan Datang
+| Fitur                 | Offline        | 
+| --------------------- | -------------- |
+| Tutorial (hacking)    |       ✔         |
+| Aplikasi MOD           |                |
+| Kumpulan Script        |       ✔         |
+| Walpaper        |               |
+
 ### Terimakasih atas support dari teman teman.
