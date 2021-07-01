@@ -25,7 +25,7 @@ Rekomendasi android minimun versi 4.
 <br><br>
 
   
-## Fitur Sementara
+## Fitur Update
 | Fitur                 | Offline        | 
 | --------------------- | -------------- |
 | Tips & Trick    |                |
