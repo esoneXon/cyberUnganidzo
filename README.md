@@ -5,8 +5,8 @@ Karena solo player rilis versi ini hanya percobaan untuk menentukan kekurangan a
 Didalam aplikasi saya juga sudah menaruh tombol <b>Laporkan Masalah</b> dan <b>Beri Saran</b> yang ada di <b>INFO</b><br><br>
 
 ###Preview Light & Dark Mode
-<p> <a href="#"><img title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Logo2.png?raw=true"> </a> </p>
-<p> <a href="#"><img title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Logo2.png?raw=true"> </a> </p>
+<p> <a href="#"><img title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Preview/Dark%20Mode.png?raw=true"> </a> </p>
+<p> <a href="#"><img title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Preview/Light%20Mode.png?raw=true"> </a> </p>
 
 ### Download
 
