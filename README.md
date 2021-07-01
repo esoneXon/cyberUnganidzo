@@ -15,7 +15,7 @@ Ini adalah update pertama untuk aplikasi ini, disini berfokus ke penambahan fitu
 | Version | Link Download  | Size           |
 | ------- | -------------- | -------------- |
 | 1.0     | https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/v1.0.apk           | 6 Mb              |
-| 1.1     | -21:00 | -9 |
+| 1.1     | 21:00 + | -9 |
 
 
 ## Device Requirements
