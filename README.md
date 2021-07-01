@@ -41,24 +41,23 @@ Rekomendasi android minimun versi 4.
 ### Tambahan Di Fitur
 | Fitur                 | Tambahan        | 
 | --------------------- | -------------- |
-| Tips & Trick    |    - Offline
-- Tanggal upload |
-| URL Downloader        |                |
-| WhatsApp Saver        |       ✔        |
-| Instagram Downloader  |                |
-| YouTube Downloader    |                |
-| JSO Generator         |                |
-| CSRF Online           |                |
-| SQL injection         |       ✔        |
-| View Source Code Web  |                |
-| Text Editor           |       ✔        |
+| Tips & Trick    |    Offline |
 
 ### Akan Datang
 | Fitur                 | Offline        | 
 | --------------------- | -------------- |
-| Tutorial (hacking)    |       ✔         |
+| Tips & Trick    |       ✔         |
 | Aplikasi MOD           |                |
 | Kumpulan Script        |       ✔         |
 | Walpaper        |               |
+| Upload iten | |
+| Pending Upload | |
+| Search for all menu | |
+| IP Lookup | |
+| Text Repeater, Binary, Encrypt, Decrypt | ✔ |
+| Fancy Text | |
+| OCR (Image to text) | ✔ |
+| Web Developer | |
+| URL Shortener | |
 
 ### Terimakasih atas support dari teman teman.
