@@ -1,14 +1,17 @@
 <p> <a href="#"><img style="width:50px;height:50px;" title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Preview/Prev.png?raw=true"> </a> </p>
 
-# Rilis v1.0 build 1
+# Pembukaan
+Assalamualaikum, aplikasi ini ane buat untuk membantu orang yang ingin belajar lebih dalam tentang dunia maya agar tidak mudah dibodohi dan ditipu. Tidak hanya itu ane juga kasih fitur media lainnya, seperti aplikasi mod (telah dimodifikasi), menonton movie, virus maker, pdf downloader, dan wallpaper.
+
+## Rilis v1.0 build 1
 Karena solo player rilis versi ini hanya percobaan untuk menentukan kekurangan ataupun kesalahan yang ada didalam aplikasi. Ngerjain sendiri + test sendiri itu lama, jadi kalian lah pengguna yang mengetest aplikasi ini agar saya sebagai developer tau dimana kekurangan dan kesalahan di dalam aplikasi.<br><br>
 Didalam aplikasi saya juga sudah menaruh tombol <b>Laporkan Masalah</b> dan <b>Beri Saran</b> yang ada di <b>INFO</b><br><br>
 
-# Preview Light & Dark Mode
+## Preview Light & Dark Mode
 <p> <a href="#"><img title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Preview/Dark%20Mode.png?raw=true"> </a> </p>
 <p> <a href="#"><img title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Preview/Light%20Mode.png?raw=true"> </a> </p>
 
-# Download
+## Download
 
 | Version | Link Download  | Size           |
 | ------- | -------------- | -------------- |
@@ -16,14 +19,14 @@ Didalam aplikasi saya juga sudah menaruh tombol <b>Laporkan Masalah</b> dan <b>B
 | 1.1     | To Night | - |
 
 
-# Device Requirements
+## Device Requirements
 Rekomendasi android minimun versi 4.
 <br>
 <b>Note :</b> Mungkin ada beberapa fitur yang tidak berfungsi untuk android versi 8+
 <br><br>
 
   
-# Fitur Sementara
+## Fitur Sementara
 | Fitur                 | Offline        | 
 | --------------------- | -------------- |
 | Tips & Trick    |                |
@@ -38,12 +41,12 @@ Rekomendasi android minimun versi 4.
 | View Source Code Web  |                |
 | Text Editor           |       ✔        |
 
-# Tambahan Di Fitur
+## Tambahan Di Fitur
 | Fitur                 | Tambahan        | 
 | --------------------- | -------------- |
 | Tips & Trick    |    Offline |
 
-# Akan Datang
+## Akan Datang
 | Fitur                 | Offline        | 
 | --------------------- | -------------- |
 | Tips & Trick    |       ✔         |
