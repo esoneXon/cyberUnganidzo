@@ -39,16 +39,6 @@ Rekomendasi android minimun versi 4.
 | SQL injection         |       ✔        |
 | View Source Code Web  |                |
 | Text Editor           |       ✔        |
-
-## Tambahan Di Fitur
-| Fitur                 | Tambahan        | 
-| --------------------- | -------------- |
-| Tips & Trick    |    Offline |
-
-## Akan Datang
-| Fitur                 | Offline        | 
-| --------------------- | -------------- |
-| Tips & Trick    |       ✔         |
 | Aplikasi MOD           |                |
 | Kumpulan Script        |       ✔         |
 | Walpaper        |               |
