@@ -1,4 +1,4 @@
-<p> <a href="#"><img title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Logo2.png?raw=true"> </a> </p>
+<p> <a href="#"><img style="width:100px;height:100px;" title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Logo2.png?raw=true"> </a> </p>
 
 ### Rilis v1.0 build 1
 Karena solo player rilis versi ini hanya percobaan untuk menentukan kekurangan ataupun kesalahan yang ada didalam aplikasi. Ngerjain sendiri + test sendiri itu lama, jadi kalian lah pengguna yang mengetest aplikasi ini agar saya sebagai developer tau dimana kekurangan dan kesalahan di dalam aplikasi.<br><br>
