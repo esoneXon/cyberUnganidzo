@@ -24,8 +24,10 @@ Rekomendasi android minimun versi 4.
 <b>Note :</b> Mungkin ada beberapa fitur yang tidak berfungsi untuk android versi 8+
 <br><br>
 
+## Update v1.1.0
+Fixed error dan tambahan text di setiap menu
   
-## Fitur Update
+## Fitur Update v1.1
 | Fitur                 | Offline        | 
 | --------------------- | -------------- |
 | Tips & Trick    |                |
