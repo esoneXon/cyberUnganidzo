@@ -13,7 +13,7 @@ Assalamualaikum, aplikasi ini ane buat untuk membantu orang yang ingin belajar l
 | ------- | -------------- | -------------- |
 | 1.0     | https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Package/v1.0.apk?raw=true           | 6 Mb              |
 | 1.1     | https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Package/v1.1.apk?raw=true | 8,7 Mb |
-| 1.1.0   | https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Package/v1.1.0.apk?raw=true   | 8,5 Mb |
+| 1.1.0   | https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Package/Update.apk?raw=true   | 8,5 Mb |
 
 ## Device Requirements
 Rekomendasi android minimun versi 4.
