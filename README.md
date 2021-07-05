@@ -3,9 +3,6 @@
 # Pembukaan
 Assalamualaikum, aplikasi ini ane buat untuk membantu orang yang ingin belajar lebih dalam tentang dunia maya agar tidak mudah dibodohi dan ditipu. Tidak hanya itu ane juga kasih fitur media lainnya, seperti aplikasi mod (telah dimodifikasi), menonton movie, virus maker, pdf downloader, dan wallpaper.
 
-## Update v1.1 To night
-Ini adalah update pertama untuk aplikasi ini, disini berfokus ke penambahan fitur yang bisa kalian liat dibawah dan beberapa fitur yang diperbaiki.
-
 ## Preview Light & Dark Mode
 <p> <a href="#"><img title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Preview/Dark%20Mode.png?raw=true"> </a> </p>
 <p> <a href="#"><img title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Preview/Light%20Mode.png?raw=true"> </a> </p>
