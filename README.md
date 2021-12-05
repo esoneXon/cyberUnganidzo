@@ -1,6 +1,6 @@
 <p> <a href="#"><img style="width:50px;height:50px;" title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Preview/Prev.png?raw=true"> </a> </p>
 
-# Project GONE, Im Sorry
+# Start From Scratch
 
 # Pembukaan
 Assalamualaikum, aplikasi ini ane buat untuk membantu orang yang ingin belajar lebih dalam tentang dunia maya agar tidak mudah dibodohi dan ditipu. Tidak hanya itu ane juga kasih fitur media lainnya, seperti aplikasi mod (telah dimodifikasi), menonton movie, virus maker, pdf downloader, dan wallpaper.
