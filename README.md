@@ -1,4 +1,4 @@
-<p> <a href="#"><img style="width:50px;height:50px;" title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Preview/Prev.png?raw=true"> </a> </p>
+<p> <a href="#"><img style="width:100%;height:100%" title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Preview/20211206_040717.png?raw=true"> </a> </p>
 
 # Start From Scratch
 
