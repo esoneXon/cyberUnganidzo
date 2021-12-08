@@ -10,12 +10,7 @@ Assalamualaikum, aplikasi ini ane buat untuk membantu orang yang ingin belajar l
 <p> <a href="#"><img title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Preview/Light%20Mode.png?raw=true"> </a> </p>
 
 ## Download
-
-| Version | Link Download  | Size           |
-| ------- | -------------- | -------------- |
-| 1.0     | https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Package/v1.0.apk?raw=true           | 6 Mb              |
-| 1.1     | https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Package/v1.1.apk?raw=true | 8,7 Mb |
-| 1.1.0   | https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Package/Update.apk?raw=true   | 8,5 Mb |
+Click this <a href="https://github.com/RepSadewa/Cyber_Unganidzo/releases">Download</a>
 
 ## Device Requirements
 Rekomendasi android minimun versi 4.
