@@ -24,10 +24,11 @@ Fixed error dan tambahan text di setiap menu
 ## Fitur Update v1.1final
 | Fitur                 | Offline        | 
 | --------------------- | -------------- |
-| Theory                |                |
+| Theory                |       ✔        |
 | URL Downloader        |                |
 | View Source Code Web  |                |
 | Code Editor           |       ✔        |
 | Kumpulan Script       |       ✔        |
+| EBook                 |                |
 
 ## Terimakasih atas support dari teman teman.
