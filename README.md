@@ -21,31 +21,13 @@ Rekomendasi android minimun versi 4.
 ## Update v1.1.0
 Fixed error dan tambahan text di setiap menu
   
-## Fitur Update v1.1
+## Fitur Update v1.1final
 | Fitur                 | Offline        | 
 | --------------------- | -------------- |
-| Tips & Trick    |                |
-| Nonton Film           |                |
+| Theory                |                |
 | URL Downloader        |                |
-| WhatsApp Saver        |       ✔        |
-| Instagram Downloader  |                |
-| YouTube Downloader    |                |
-| JSO Generator         |                |
-| CSRF Online           |                |
-| SQL injection         |       ✔        |
 | View Source Code Web  |                |
-| Text Editor           |       ✔        |
-| Aplikasi MOD           |                |
-| Kumpulan Script        |       ✔         |
-| Walpaper        |               |
-| Upload iten | |
-| Pending Upload | |
-| Search for all menu | |
-| IP Lookup | |
-| Text Repeater, Binary, Encrypt, Decrypt | ✔ |
-| Fancy Text | |
-| OCR (Image to text) | ✔ |
-| Web Developer | |
-| URL Shortener | |
+| Code Editor           |       ✔        |
+| Kumpulan Script       |       ✔        |
 
 ## Terimakasih atas support dari teman teman.
