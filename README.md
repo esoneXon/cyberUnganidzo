@@ -1,4 +1,4 @@
-<p> <a href="#"><img style="width:100%;height:100%" title="Cyber Unganidzo by Esone" src="https://github.com/RepSadewa/Cyber_Unganidzo/blob/main/Preview/20211206_040717.png?raw=true"> </a> </p>
+<p> <a href="#"><img style="width:100%;height:100%" title="Cyber Unganidzo by Esone" src="https://i.ibb.co/f98RxjZ/oneplus-6-mockups.jpg"> </a> </p>
 
 # Go To Final
 
