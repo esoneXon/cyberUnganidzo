@@ -1,4 +1,4 @@
-<p> <a href="#"><img style="width:100%;height:100%" title="Cyber Unganidzo by Esone" src="https://i.ibb.co/f98RxjZ/oneplus-6-mockups.jpg"> </a> </p>
+<p> <a href="#"><img style="width:100%;height:100%" title="Cyber Unganidzo by Esone" src=""> </a> </p>
 
 # Welcome
 Assalamualaikum, aplikasi ini ane buat untuk membantu orang yang ingin belajar lebih dalam tentang dunia maya agar tidak mudah dibodohi dan ditipu. Tidak hanya itu ane juga kasih fitur media lainnya, seperti aplikasi mod (telah dimodifikasi), menonton movie, virus maker, pdf downloader, dan wallpaper.
