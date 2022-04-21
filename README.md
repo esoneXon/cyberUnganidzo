@@ -12,8 +12,8 @@ Rekomendasi android minimun versi 4.
 <b>Note :</b> Mungkin ada beberapa fitur yang tidak berfungsi untuk android versi 8+
 <br><br>
 
-## Update v1.2
-Tampilan dan sistem baru
+## Update v1.2a
+- Fix Bug
   
 ## Fitur Update v1.2
 | Fitur                 | Offline        | 
