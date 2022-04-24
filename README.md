@@ -13,7 +13,7 @@ Rekomendasi android minimun versi 4.
 <br><br>
 
 ## Update v1.2a
-- Fix Bug
+- Fitur OST
   
 ## Fitur Update v1.2
 | Fitur                 | Offline        | 
