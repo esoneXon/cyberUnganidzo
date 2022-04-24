@@ -4,7 +4,7 @@
 Assalamualaikum, aplikasi ini ane buat untuk membantu orang yang ingin belajar lebih dalam tentang dunia maya agar tidak mudah dibodohi dan ditipu. Tidak hanya itu ane juga kasih fitur media lainnya, seperti aplikasi mod (telah dimodifikasi), menonton movie, virus maker, pdf downloader, dan wallpaper.
 
 ## Download
-Click this <a href="https://github.com/esoneXon/cyberUnganidzo/releases/download/aplikasi1.2a/CYNIDZO_1.2a.apk">Download</a>
+Click this <a href="https://github.com/esoneXon/cyberUnganidzo/releases/download/aplikasi1.2os/CYNIDZO_1.2os.apk">Download</a>
 
 ## Device Requirements
 Rekomendasi android minimun versi 4.
