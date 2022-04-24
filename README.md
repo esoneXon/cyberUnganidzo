@@ -12,7 +12,7 @@ Rekomendasi android minimun versi 4.
 <b>Note :</b> Mungkin ada beberapa fitur yang tidak berfungsi untuk android versi 8+
 <br><br>
 
-## Update v1.2a
+## Update v1.2os
 - Fitur OST
   
 ## Fitur Update v1.2
