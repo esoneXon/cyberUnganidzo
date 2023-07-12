@@ -1,3 +1,5 @@
+<p font-color="red">DISCONTINUED</p>
+
 <p> <a href="#"><img style="width:100%;height:100%" title="Cyber Unganidzo by Esone" src="update.jpg"> </a> </p>
 
 # Welcome
